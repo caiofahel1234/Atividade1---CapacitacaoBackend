@@ -5,7 +5,23 @@ Projeto de backend em **Spring Boot** para fins de capacitação. Esta aplicaç�
 ---
 
 ## Estrutura do Projeto
-capacitacao-backend/ └─ backend/ └─ backend/ └─ src/ └─ main/ └─ java/ └─ com/ └─ example/ └─ backend/ ├─ BackendApplication.java └─ controller/ └─ MensagemController.java └─ src/ └─ main/ └─ resources/ └─ application.properties └─ pom.xml
+capacitacao-backend/
+└─ backend/
+└─ backend/
+└─ src/
+└─ main/
+└─ java/
+└─ com/
+└─ example/
+└─ backend/
+├─ BackendApplication.java
+└─ controller/
+└─ MensagemController.java
+└─ src/
+└─ main/
+└─ resources/
+└─ application.properties
+└─ pom.xml
 
 ---
 
