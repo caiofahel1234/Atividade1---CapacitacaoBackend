@@ -32,7 +32,7 @@ capacitacao-backend/
 
 ---
 
-##  Configuração do Projeto
+## Configuração do Projeto
 
 1. Clone o repositório:
 
@@ -47,7 +47,7 @@ mvn spring-boot:run
 
 
 
-## Endpoints
+**## Endpoints** 
 
 1.GET /mensagem
 Retorna uma mensagem em JSON:
