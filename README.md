@@ -56,7 +56,7 @@ capacitacao-backend/
 
 ## Endpoints
 
-### 1.GET /mensagem
+### 1. GET /mensagem
 
   {
   "mensagem": "Bem-vindo à trilha Backend!"
