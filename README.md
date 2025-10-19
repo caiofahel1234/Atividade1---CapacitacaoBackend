@@ -2,7 +2,6 @@
 
 Projeto de backend em Spring Boot para fins de capacitação. Este projeto possui uma API simples com endpoint de exemplo para demonstração de funcionamento do Spring Boot
 
-
 ## Estrutura do Projeto
 
 capacitacao-backend/
@@ -23,14 +22,12 @@ capacitacao-backend/
 └─ application.properties
 └─ pom.xml
 
-
 ##  Requisitos
 
 - Java JDK 17 ou superior  
 - Maven 3.8 ou superior  
 - IDE (opcional, recomendado: VSCode ou IntelliJ IDEA)  
 
----
 
 ## Configuração do Projeto
 
@@ -44,12 +41,9 @@ cd capacitacao-backend/backend/backend
 
 mvn spring-boot:run
 
+## Endpoints
 
-
-
-**## Endpoints** 
-
-1.GET /mensagem
+1. GET /mensagem
 Retorna uma mensagem em JSON:
 {
   "mensagem": "Bem-vindo à trilha Backend!"
