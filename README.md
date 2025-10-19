@@ -39,5 +39,5 @@ capacitacao-backend/
 
 ```bash
 git clone <URL_DO_REPOSITORIO>
-cd capacitacao-backend/backend
+cd capacitacao-backend/backend/backend
 mvn spring-boot:run
