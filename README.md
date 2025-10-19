@@ -22,12 +22,15 @@ capacitacao-backend/
 └─ application.properties
 └─ pom.xml
 
-##  Requisitos
+---
+
+## Requisitos
 
 - Java JDK 17 ou superior  
 - Maven 3.8 ou superior  
-- IDE (opcional, recomendado: VSCode ou IntelliJ IDEA)  
+- IDE recomendada: VSCode ou IntelliJ IDEA  
 
+---
 
 ## Configuração do Projeto
 
@@ -35,18 +38,4 @@ capacitacao-backend/
 
 ```bash
 git clone <URL_DO_REPOSITORIO>
-cd capacitacao-backend/backend/backend
-
-2.Execute a aplicação usando Maven:
-
-mvn spring-boot:run
-
-## Endpoints
-
-1. GET /mensagem
-Retorna uma mensagem em JSON:
-{
-  "mensagem": "Bem-vindo à trilha Backend!"
-}
-
-
+cd capacitacao-backend/backend
