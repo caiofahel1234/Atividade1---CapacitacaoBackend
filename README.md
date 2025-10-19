@@ -86,7 +86,7 @@ cd capacitacao-backend/backend
 2. Execute a aplicação usando Maven:
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd capacitacao-backend/backend
+mvn spring-boot:run
+
 
 
