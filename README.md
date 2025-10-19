@@ -42,7 +42,7 @@ capacitacao-backend/
 
 ### 2. Entre na pasta do projeto:
 
-  cd capacitacao-backend/backend
+  cd capacitacao-backend/backend/backend
 
 
 ### 3. Execute a aplicação usando Maven:
@@ -53,3 +53,11 @@ capacitacao-backend/
 ### 4. Caso a porta 8080 esteja ocupada, altere a porta no arquivo application.properties:
 
   server.port=9090
+
+## Endpoints
+
+### 1.GET /mensagem
+
+  {
+  "mensagem": "Bem-vindo à trilha Backend!"
+}
