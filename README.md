@@ -40,4 +40,6 @@ capacitacao-backend/
 git clone <URL_DO_REPOSITORIO>
 cd capacitacao-backend/backend
 
+---
+
 2. Execute a aplicação usando Maven:
