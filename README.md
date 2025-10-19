@@ -4,20 +4,33 @@ Projeto de backend em Spring Boot para fins de capacitação. Este projeto possu
 
 capacitacao-backend/
 └─ backend/
+
 └─ backend/
+
 └─ src/
+
 └─ main/
+
 └─ java/
+
 └─ com/
+
 └─ example/
+
 └─ backend/
+
 ├─ BackendApplication.java
+
 └─ controller/
+
 └─ MensagemController.java
+
 └─ src/
 └─ main/
+
 └─ resources/
 └─ application.properties
+
 └─ pom.xml
 
 
