@@ -44,6 +44,9 @@ cd capacitacao-backend/backend/backend
 
 mvn spring-boot:run
 
+
+
+
 ## Endpoints
 
 1.GET /mensagem
