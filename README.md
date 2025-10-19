@@ -1,26 +1,23 @@
-# Atividade1---CapacitacaoBackend
+# Atividade 1 - CapacitacaoBackend
 
-Projeto de backend em Spring Boot para fins de capacitação. Este projeto possui uma API simples com endpoint de exemplo para demonstração de funcionamento do Spring Boot
+Projeto de backend em **Spring Boot** para fins de capacitação. Esta aplicação possui uma API simples com endpoint de exemplo para demonstração de funcionamento do Spring Boot.
+
+---
 
 ## Estrutura do Projeto
-
-capacitacao-backend/
 └─ backend/
 └─ backend/
-└─ src/
-└─ main/
-└─ java/
-└─ com/
-└─ example/
-└─ backend/
-├─ BackendApplication.java
-└─ controller/
-└─ MensagemController.java
-└─ src/
-└─ main/
-└─ resources/
-└─ application.properties
+├─ src/
+│ ├─ main/
+│ │ ├─ java/
+│ │ │ └─ com/example/backend/
+│ │ │ ├─ BackendApplication.java
+│ │ │ └─ controller/
+│ │ │ └─ MensagemController.java
+│ │ └─ resources/
+│ │ └─ application.properties
 └─ pom.xml
+
 
 ---
 
@@ -39,12 +36,4 @@ capacitacao-backend/
 ```bash
 git clone <URL_DO_REPOSITORIO>
 cd capacitacao-backend/backend
-
-
-2. Execute a aplicação usando Maven:
-
-```bash
 mvn spring-boot:run
-
-
-
