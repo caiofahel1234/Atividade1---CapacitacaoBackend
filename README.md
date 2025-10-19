@@ -2,35 +2,25 @@
 
 Projeto de backend em Spring Boot para fins de capacitação. Este projeto possui uma API simples com endpoint de exemplo para demonstração de funcionamento do Spring Boot
 
+
+## Estrutura do Projeto
+
 capacitacao-backend/
 └─ backend/
-
 └─ backend/
-
 └─ src/
-
 └─ main/
-
 └─ java/
-
 └─ com/
-
 └─ example/
-
 └─ backend/
-
 ├─ BackendApplication.java
-
 └─ controller/
-
 └─ MensagemController.java
-
 └─ src/
 └─ main/
-
 └─ resources/
 └─ application.properties
-
 └─ pom.xml
 
 
@@ -50,11 +40,12 @@ capacitacao-backend/
 git clone <URL_DO_REPOSITORIO>
 cd capacitacao-backend/backend/backend
 
-##  Como Rodar Usando Maven
+2.Execute a aplicação usando Maven:
+
 mvn spring-boot:run
 
 ## Endpoints
-1. GET /mensagem
+1.GET /mensagem
 Retorna uma mensagem em JSON:
 {
   "mensagem": "Bem-vindo à trilha Backend!"
