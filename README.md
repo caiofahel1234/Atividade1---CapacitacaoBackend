@@ -35,21 +35,21 @@ capacitacao-backend/
 
 ## Como Rodar a Aplicação
 
-Clone o repositório:
+1. Clone o repositório:
 
 git clone <URL_DO_REPOSITORIO>
 
 
-Entre na pasta do projeto:
+2. Entre na pasta do projeto:
 
 cd capacitacao-backend/backend
 
 
-Execute a aplicação usando Maven:
+3. Execute a aplicação usando Maven:
 
 mvn spring-boot:run
 
 
-Caso a porta 8080 esteja ocupada, altere a porta no arquivo application.properties:
+4. Caso a porta 8080 esteja ocupada, altere a porta no arquivo application.properties:
 
 server.port=9090
